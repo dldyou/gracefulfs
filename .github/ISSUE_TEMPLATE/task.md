@@ -1,10 +1,9 @@
 ---
 name: Task
 about: Track a planned task, decision, or improvement.
-title: ''
-labels: 'status: needs-triage'
-assignees: ''
-
+title: ""
+labels: "status: needs-triage"
+assignees: ""
 ---
 
 ## Summary
@@ -23,7 +22,7 @@ List the concrete outcomes this issue should achieve.
 이 이슈를 통해 달성해야 하는 구체적인 결과를 작성합니다.
 -->
 
-- [ ] 
+- [ ]
 
 ## Acceptance Criteria
 
@@ -33,7 +32,7 @@ List verifiable conditions that define when this issue is complete.
 이슈가 완료되었다고 판단할 수 있는 검증 가능한 조건을 작성합니다.
 -->
 
-- [ ] 
+- [ ]
 
 ## Notes
 
