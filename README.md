@@ -8,6 +8,14 @@ Graceful File System Management, GracefulFS is a Window filesystem analysis tool
 
 GracefulFS is for Windows developers and power users who need to find large files, understand folder usage, and inspect disk consumption safely.
 
+## Contributing
+
+Please read the following documents before contributing:
+
+- [Contributing Guide](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security Policy](SECURITY.md)
+
 ## MVP Workflow
 
 1. Select a local Windows drive or folder.
