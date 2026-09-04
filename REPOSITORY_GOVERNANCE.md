@@ -15,15 +15,25 @@ The following rules apply:
 - Pull requests are merged using squash merge.
 - The final pull request title becomes the squash commit title.
 
-## Pull Request Title Convention
+## Commit Convention
+
+Commits should follow this format:
+
+`<type>: <short description> (#<issue-number>)`
+
+Example:
+
+`docs: document repository governance rules (#8)`
+
+## Pull Request Convention
 
 Pull request titles should follow this format:
 
 `<Short Description> (#<issue-number>)`
 
-Examples:
+Example:
 
-- `Add Something New (#1)`
+`Document repository governance rules (#8)`
 
 Local commits do not need to reference an issue. The issue reference is required in the final pull request title.
 
